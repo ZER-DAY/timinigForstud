@@ -5,6 +5,9 @@
 Дата сдачи
 Оценка
 
+![aa](https://github.com/user-attachments/assets/35ebeb6d-d035-4574-a257-1101d2f97ceb)
+
+
 ( (Software Requirements Specification ) )
 
 • Revision History
@@ -289,6 +292,12 @@ Appendix A: Glossary
 Appendix B: Analysis Models
 • Use Case Diagram: Describes the functionality provided by the system from the perspective of users.
 • Entity-Relationship Diagram (ERD): Visual representation of the system’s database structure, showing the relationships between entities like lectures, users, and schedules.
+
+
+
+![Class Diagram0](https://github.com/user-attachments/assets/92a2a578-93b5-4b7d-8851-ccaa76048a22)
+
+
 
 • Sequence Diagrams: Illustrates the interactions between the system’s components during key operations like fetching lecture data or user authentication.
 Appendix C: To Be Determined List
